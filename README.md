@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm XROID</h1>
+<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{XRoiDX}/count.svg" /></p> 
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xroidx&label=Profile%20views&color=0e75b6&style=flat" alt="xroidx" /> </p>
