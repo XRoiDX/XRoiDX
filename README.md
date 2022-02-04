@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xroidx&show_icons=true&locale=en" alt="xroidx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xroidx&" alt="xroidx" /></p>
+</p>
+<a href="https://github.com/XRoiDX"><img alt="XRoiDX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=XRoiDX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
