@@ -35,3 +35,10 @@
 </p>
 <a href="https://github.com/XRoiDX"><img alt="XRoiDX's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=XRoiDX&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+---
+
+## 🎵 Now playing
+
+[![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
+
+---
